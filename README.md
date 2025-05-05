@@ -86,8 +86,7 @@ pubspec.yaml    # Project configuration and dependencies</code></pre>
   </ul>
 
   <h3>📂 مرحله ۲: دریافت پروژه</h3>
-  <pre><code>git clone https://github.com/your-username/gen-ai-chatbot.git
-cd gen-ai-chatbot</code></pre>
+  <pre><code>git clone https://github.com/amirmahdimon/GenAI.git </code></pre>
 
   <h3>📦 مرحله ۳: نصب وابستگی‌ها</h3>
   <pre><code>flutter pub get</code></pre>
