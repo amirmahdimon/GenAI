@@ -1,0 +1,1 @@
+const GenAiKey = 'کلید خود را وارد کنید'; // enter your key
