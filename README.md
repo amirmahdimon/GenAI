@@ -14,7 +14,7 @@
   <p>Gen AI Chatbot is a mobile app built with Flutter. It allows users to interact with an AI chatbot through a clean and intuitive interface. It's great for learning Flutter and building AI-powered apps.</p>
 
   <h2>🖼️ Screenshot</h2>
-  <img src="https://github.com/user-attachments/assets/34e0a322-cd92-40c2-a903-6b877b82dd31" alt="App Screenshot">
+  <img src="https://github.com/user-attachments/assets/34e0a322-cd92-40c2-a903-6b877b82dd31" alt="App Screenshot" width="300">
   <p>This is the main interface where you can chat with the AI.</p>
 
   <h2>🚀 How to Run the App</h2>
