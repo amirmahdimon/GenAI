@@ -3,33 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Gen AI Chatbot</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.7;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    pre, code {
-      background: #f4f4f4;
-      padding: 5px 10px;
-      border-radius: 5px;
-      display: block;
-      overflow-x: auto;
-    }
-    .rtl {
-      direction: rtl;
-      text-align: right;
-    }
-    img {
-      max-width: 100%;
-      border: 1px solid #ccc;
-    }
-  </style>
 </head>
 <body>
 
