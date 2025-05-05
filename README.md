@@ -29,8 +29,7 @@
   </ul>
 
   <h3>📂 Step 2: Get the Project</h3>
-  <pre><code>git clone https://github.com/your-username/gen-ai-chatbot.git
-cd gen-ai-chatbot</code></pre>
+  <pre><code>git clone https://github.com/amirmahdimon/GenAI.git</code></pre>
 
   <h3>📦 Step 3: Install Dependencies</h3>
   <pre><code>flutter pub get</code></pre>
